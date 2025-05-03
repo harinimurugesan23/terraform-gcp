@@ -1,0 +1,32 @@
+name: Terraform Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  terraform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Set up Google Cloud SDK
+      uses: google-github-actions/setup-gcloud@v0.2.0
+      with:
+        project_id: 'divine-aegis-454814-k0' # Your GCP Project ID
+        credentials_json: ${{ secrets.GOOGLE_CREDENTIALS }}
+
+    - name: Install Terraform
+      run: |
+        curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
+        sudo apt-add-repository "deb https://apt.releases.hashicorp.com $(lsb_release -cs) main"
+        sudo apt-get update && sudo apt-get install terraform
+
+    - name: Terraform Init
+      run: terraform init
+
+    - name: Terraform Apply
+      run: terraform apply -auto-approve
