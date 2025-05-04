@@ -1,4 +1,7 @@
 .terraform/
+bin/
+*.exe
+*.zip
+*.tar.gz
 terraform.tfstate
 terraform.tfstate.backup
-bin/
