@@ -5,3 +5,6 @@ bin/
 *.tar.gz
 terraform.tfstate
 terraform.tfstate.backup
+tfplan
+key.json
+echo "key.json" >> .gitignore
