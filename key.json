@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "divine-aegis-454814-k0",
+  "private_key_id": "16d32123f8b31776567726d4a41e24554b1d4762",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMZS9ac02SOR/g\nEcVRuxdBlGluYS9mRtgysYU2ZsZ4KjyabFLdeta3uBMZn4dV2ycNfQFmaSdjT0oC\nnjS4n0fcTWpwade80EUdvr370ib6G8pjqcF/jzpWTB8opHec7ZQyHD1idF8BoikD\nbcKt5jSwLmN2Th1aFWbmCXWlm1U67JQMt2bSHfUqciKSmnVoqbdecesnJXdKr0Fb\nYK3tGVg1xini0WFW9XWru2vFc/NcI/JB3mOxknHdYKCBt9hmu1smsxHCza8dcasp\ny2cXVMOBP5B0AMckfZviFcBWQ1gzd4REAHNO1/WkP1MbR0QoRQVTLp9IGqByDTbY\nmY9uh1X/AgMBAAECggEAB4KyU5WyudbyhmZwxI47jl6DOe9FRsdUphbi07sWu49Q\nbHDi4fOOafAld4a7+i9+3F6FtiXSsNysK14f3Cbc2koCnsCCO78VbcCMCkb7Gqv5\nwGFvqZ3G4X6TkzKT7fFxmskch6kfXUKAVPlsCBLSSHpej5goOPQEtMWP4UwiEh5S\n3ObrM+Lxl60N9xw2mguxzYABI4F2f6A41NXowixG++oHxBgx4Ci4hv4GKAfn6MpG\nuwVPgnPFHZ/tJB+I5F50AoMnKRJS5vfvGPvJTYKNHVLaBEN0C1aP3pbmYf7RBHpd\n0BVnDuCTV6OkSHozVxUbVRTmZjFZNIqlvexhLyZCQQKBgQDsuYAM2ZBmgz0sqIFK\nAR0XR/oqdMXzs87P1yCok9tTlUML+un7vWNmkt5ntmYhdxgipwC56AfbmYnzZ54M\nOr914yycQ3Wiw8ur75v8mNi9PpVc+m4E4Q6Le3kdqhDXmRMwtI2n3lpvJuuFfC40\nydYs/mnd/qoWRvaJ+aAVz7X1QQKBgQDdCchgLM3SIFfrfywIqxwru+qeQL1zoloY\no7noP2yQHTlbg5d1b+gOvOLq7fgEGlslzexdkvoqHGUdP5cKdYKh2jZ/0hGNmoeR\nq81WQ7+xKK1IfkoRE0Qze6rCXNZRH9WrccQ1jh4TWy/8mHkpUAjInQf+tBul+o7t\n3nKiMLo7PwKBgQCFP92eXhD0Q0d6DdfI6luPsUpV/6k1hq8ROwz9F01L/SbiZXiz\n5WVAZcefJYLTr4/8YXj9LGjP6dtHEbpbM+5100xXIXnkBsZsn9F0HC1USRgWYDjx\nsiVXykbgtcwJL/cnYVqjdXv+OTA10TLJMBvI8+Rvu1vOcl9wRv0fie3ogQKBgQCE\nYER5nLuS+T3OUrY7ZsaTRpJnPlx3sSaGFR/UgI9y652bOf7uHRv8H5FCo0vioSov\nRNkm3UwnBiRkVN4PLHsUlYwIFvXeOUqxqhNqc16NKdBFVyTifwhcUNbeWh0cLpWX\nfKXGcRt/+h+OBn6hiEYKZ0kPeCwKxjjtKki667XMnwKBgC5pwXR7P6mcsET3b88E\nHBEy3aGy2NIhyaV07lN4I2GwgBpCtqPYacMiCc01nbrXCRM+rMuEiq0fRXXhrxsl\nrK1OuGOft7CvHWAknz+GLd0b3jfFTlA4o6Ehxc6G8XSuNvk/Vt0hA/2iNtvAVdsr\n7cEbBf3XrAZdCsvcIulqNi/B\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@divine-aegis-454814-k0.iam.gserviceaccount.com",
+  "client_id": "117244721760349259612",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40divine-aegis-454814-k0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
